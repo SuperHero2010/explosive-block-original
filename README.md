@@ -4,6 +4,10 @@ This is the default mod
 
 This is my 3rd project
 
+I have a Discord account
+
+Join discord [Here](https://discord.gg/5BWTwGf8Rt)
+
 I used mod maker Mcreator 2023.4
 
 Use [GeckoLib](https://modrinth.com/mod/geckolib) and [MCreator Link](https://mcreator.net/download/link) to my mod work
